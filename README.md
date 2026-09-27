@@ -8,4 +8,4 @@ Based in Calgary, AB — looking for GIS Analyst, Geospatial Data Analyst, and e
 
 📍 Featured project: Calgary Traffic Collision Risk Prediction — geospatial analysis, road network characteristics, and machine learning to identify high-risk traffic zones.
 
-📫 LinkedIn
+📫 [LinkedIn](PEGA_AQUI_TU_LINK) [https://www.linkedin.com/in/afgarciar/](https://www.linkedin.com/in/afgarciar/)
