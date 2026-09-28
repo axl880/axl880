@@ -6,6 +6,6 @@ Based in Calgary, AB — looking for GIS Analyst, Geospatial Data Analyst, and e
 
 🔧 Stack: Python (pandas, geopandas, scikit-learn) · SQL / PostGIS · ArcGIS Pro · QGIS · Power BI
 
-📍 Featured project: Calgary Traffic Collision Risk Prediction — geospatial analysis, road network characteristics, and machine learning to identify high-risk traffic zones.
+**📍 Featured project:** Calgary Traffic Collision Risk Prediction — geospatial analysis, road network characteristics, and machine learning to identify high-risk traffic zones.
 
 📫 [LinkedIn](PEGA_AQUI_TU_LINK) [https://www.linkedin.com/in/afgarciar/](https://www.linkedin.com/in/afgarciar/)
